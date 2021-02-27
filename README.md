@@ -1,6 +1,7 @@
 # Speech Command
   Speech Command Recognizer from Microphone in browser using javascript library tensorflowjs
-
+  Custom model trained using https://github.com/tensorflow/tfjs-models/blob/master/speech-commands/training/browser-fft/training_custom_audio_model_in_python.ipynb
+ 
 ## Installing
 Clone this repository to your local computer
 ``` bash
